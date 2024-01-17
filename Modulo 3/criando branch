@@ -4,3 +4,6 @@ Comando necessário é o "git checkout -b nome_da_branch"
  **aqui, ele cria e já altera a branch
 
 É possivel criar e alterar branchs pelo proprio github
+
+Git merge une as branchs pra todas terem o mesmo conteudo. EX: git merge modulo-3 (a branch que criamos anteriormente)
+agora a master já vai ter essas alterações
