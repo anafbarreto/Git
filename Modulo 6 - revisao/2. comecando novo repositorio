@@ -1,0 +1,14 @@
+
+1. mkdir [nome] cria pasta no diretorio
+2. git init
+3. seus arquivos e alterações
+4. criar repositorio no github e copiar o endereço da pasta
+5. no terminal do vs code git remote add origin [cola url]
+6. git status
+7. git add .
+8. git commit -m "nome"
+9. git push
+
+
+
+

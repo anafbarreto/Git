@@ -1,0 +1,5 @@
+quando uma branch está sendo trabalhada por mais de uma pessoa, podemos ter um erro de desatualização na hora do push.
+pra resolver, basta salvar seus arquivos com ctrl + s e no terminal usar o git pull
+assim, vc tera as atualizações do outro coleguinha e conseguira realizar seu git push
+
+atenção, não é ideal que ambos estejam no mesmo documento, para não haver conflitos de codigo, no maximo, ambos trabalhando na mesma pasta

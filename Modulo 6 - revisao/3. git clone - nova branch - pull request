@@ -1,0 +1,24 @@
+Clone
+1. abrir terminal vs code > git clone e URL da pasta do github
+
+Branch
+2. git checkout -b nome_da_branch"  **aqui, ele cria e já altera a branch
+3. altera os arquivos
+4. git status
+5. git add .
+6. git commit -m "nome"
+
+
+----
+Plus de projeto
+1. abrir uma issues no github
+2. criar um arquivo 
+3. atribuir label, projeto e a auto atribuir o card
+----
+
+7. git push --set-upstream origin "nome da sua branch"
+8. do proprio terminal clicar no link de sugestão para o pull request
+9. no github > create pull request
+10. como a carinha é parecida com o issues, fazer novamente as atribuições de label, assigned e projeto
+11. merge pull request dentro da aba pull request
+

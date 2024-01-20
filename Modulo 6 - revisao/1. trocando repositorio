@@ -1,0 +1,9 @@
+para trocar o repositorio do VS code usar cd ../ (volta um nivel)
+cd / volta pro diretorio principal c:\
+
+vc também pode usar o nome completo do diretorio cd users\ana_barreto\desktop\desenvolvimento\git-github
+
+mkdir [nome] cria pasta no diretorio
+git init
+arquivos 
+
