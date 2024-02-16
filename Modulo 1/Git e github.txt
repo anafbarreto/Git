@@ -1,1 +1,7 @@
 primeira aula
+
+Configurações:
+git init
+git config --global user.name Tal de Tal
+git config --global user.email taldetal@exemplo.br
+
