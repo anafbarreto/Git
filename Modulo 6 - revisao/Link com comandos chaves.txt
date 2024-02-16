@@ -1,0 +1,6 @@
+https://www.treinaweb.com.br/blog/comandos-do-git-que-voce-precisa-conhecer-parte-1#:~:text=Para%20excluir%20uma%20branch%20local,branch%20que%20voc%C3%AA%20quer%20apagar.
+
+https://www.alura.com.br/artigos/nova-exigencia-do-git-de-autenticacao-por-token-o-que-e-o-que-devo-fazer?_gl=1*12ay8br*_ga*MTE0OTg2NDY4OS4xNzA1Nzg1MDE2*_ga_1EPWSW3PCS*MTcwNTc5NTA1OS4yLjEuMTcwNTc5NzUyOS4wLjAuMA..*_fplc*Uk9aOCUyQjlRQTIxYXFDVlplMjN0cldsRzc0cEcxMUU2MUFKVVF6dnQ1Y3g4eiUyRkxQNUttZ3pkWURXUzRDTlZleDNwYmY0VUFzOHYwRVdsUHl6QWYlMkZZTlVMa3d4OXN0MXA1UWRPWVk1MHRSOWFZNm94OEF4MlRUUHQ4NmJxJTJCRFElM0QlM0Q.
+
+
+https://www.alura.com.br/artigos/o-que-e-git-github?_gl=1*1t976r4*_ga*MTE0OTg2NDY4OS4xNzA1Nzg1MDE2*_ga_1EPWSW3PCS*MTcwNTc5NTA1OS4yLjEuMTcwNTc5NzUyMy4wLjAuMA..*_fplc*Uk9aOCUyQjlRQTIxYXFDVlplMjN0cldsRzc0cEcxMUU2MUFKVVF6dnQ1Y3g4eiUyRkxQNUttZ3pkWURXUzRDTlZleDNwYmY0VUFzOHYwRVdsUHl6QWYlMkZZTlVMa3d4OXN0MXA1UWRPWVk1MHRSOWFZNm94OEF4MlRUUHQ4NmJxJTJCRFElM0QlM0Q.
